@@ -1,2 +1,5 @@
 # JavaScript-Calculator
- Zuri Task on developing a calculator without frontend
+
+Zuri Task on developing a calculator without frontend
+
+Here is a link to the live site
